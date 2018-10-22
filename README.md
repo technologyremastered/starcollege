@@ -1,1 +1,1 @@
-# https://starcollege.github.io/
+# starcollege
