@@ -1,1 +1,1 @@
-# https://technologyremastered.github.io/starcollege/
+# https://starcollege.github.io
